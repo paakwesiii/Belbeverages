@@ -1,0 +1,29 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="recommendation.css">
+<title>GIVING BACK TO THE SOCIETY</title>
+<li><center><color="blue"><a href="homepage.html">HOMEPAGE</a></color></center></li>
+</head>
+<body>
+<header>
+
+</header>
+<main>
+    
+
+</section>
+<body style="background-image: url('CAR.jpg'); background-size: cover; background-position: center;">
+<p> AT BEL ,we are committed to giving back to the community . We are proud to have made positive impacts on the lives of those in need in the society through donation and support</p>
+
+
+</main>
+<footer>
+<p>&copy; 2025 BEL BEVERAGES</p>
+</footer>
+</body>
+</html>

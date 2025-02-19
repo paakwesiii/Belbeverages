@@ -1,0 +1,73 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="products.css">
+
+<title>Products</title>
+<li><a href="homepage.html">HOMEPAGE</a></li>
+</head>
+<body>
+<header>
+<h1>Our Products</h1>
+<li><a href="homepage.html">HOMEPAGE</a></li>
+</header>
+<main>
+<section>
+<h2>Bel TONIC</h2>
+<img src="TONIC.jpg" alt="XYZ Widget" width="300">
+<p>Purified Drinking Water</p>
+<p>Price: 10</p>
+<button>Buy Now</button>
+</section>
+<section>
+    <h2>Bel TONIC</h2>
+    <img src="TONIC.jpg" alt="XYZ Widget" width="300">
+    <p>Purified Drinking Water</p>
+    <p>Price: 10</p>
+    <button>Buy Now</button>
+    </section>
+    <section>
+        <h2>Bel TONIC</h2>
+        <img src="TONIC.jpg" alt="XYZ Widget" width="300">
+        <p>Purified Drinking Water</p>
+        <p>Price: 10</p>
+        <button>Buy Now</button>
+        </section>
+        <section>
+            <h2>Bel TONIC</h2>
+            <img src="TONIC.jpg" alt="XYZ Widget" width="300">
+            <p>Purified Drinking Water</p>
+            <p>Price: 10</p>
+            <button>Buy Now</button>
+            </section>
+            <section>
+                <h2>Bel TONIC</h2>
+                <img src="TONIC.jpg" alt="XYZ Widget" width="300">
+                <p>Purified Drinking Water</p>
+                <p>Price: 10</p>
+                <button>Buy Now</button>
+                </section>
+<section>
+<h2>Bel Cola </h2>
+<img src="COLA.jpg" alt="XYZ Widget" width="300">
+<p>Cola based drinking soda .</p>
+<p>Price: 3.50</p>
+<button>Buy Now</button>
+</section>
+<section>
+<h2>Product 3: Squeeze </h2>
+<img src="SQU.jpg" alt="XYZ Widget" width="300">
+<p>Orange based drinking soda .</p>
+<p>Price: 2</p>
+<button>Buy Now</button>
+</section>
+</main>
+<footer>
+<p>&copy; 2025 Bel Beverages</p>
+</footer>
+</body>
+</html>
